@@ -1,1 +1,1 @@
-module github.com/kindsys/commonmarkapi/hugosource/attributes
+module github.com/kindsys/hugo-attributes-goldmark-extension
