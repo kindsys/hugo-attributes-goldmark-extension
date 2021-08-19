@@ -1,0 +1,1 @@
+Extracted from https://github.com/gohugoio/hugo/blob/master/markup/goldmark/internal/extensions/attributes/attributes.go
